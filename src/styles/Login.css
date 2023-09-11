@@ -1,0 +1,105 @@
+.main {
+  display: flex;
+}
+.col-6 {
+  width: 50% !important;
+}
+.container {
+  margin: 0px !important;
+  padding: 0px !important;
+  background-color: #ffffff;
+  border: 0px;
+  border-radius: 0px;
+}
+
+.leftSide {
+  padding-left: 40px;
+  padding-top: 30px;
+}
+.logo img {
+  width: 200px;
+  height: 51px;
+}
+.leftSide .heading {
+  /* font-size: 24px; */
+  margin-bottom: 10px;
+  color: #000;
+  font-family: Montserrat;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%;
+  text-transform: uppercase;
+}
+.leftSide p {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+input {
+  width: 600px;
+  height: 54px;
+  border-radius: 5px;
+  background: #ececec;
+  margin-top: 30px;
+  border: 0px;
+  padding-left: 30px;
+}
+#rememberMe {
+  width: 22px;
+  height: 22px;
+  border-radius: 5px;
+  border: 2px solid #676774;
+  background: rgba(217, 217, 217, 0);
+}
+.leftSide label {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  text-transform: initial;
+  margin-left: 10px;
+}
+.remember-me {
+  width: 100%;
+  height: auto;
+}
+.leftSide button {
+  width: 194px;
+  height: 54px;
+  border-radius: 5px;
+  background: #010c3a;
+  color: white;
+  border: 0px;
+  margin-top: 20px;
+}
+.rightSide {
+  padding-left: 33px;
+  /* width: 720px; */
+  /* height: 690px; */
+}
+/* .right-img {
+  width: 918px;
+  height: 975px;
+} */
+input,
+button,
+select,
+optgroup,
+textarea {
+  margin-bottom: 25px !important;
+}
+@media only screen and (max-width: 1920px) {
+  .right-img {
+    width: 918px;
+    height: 965px;
+    margin-left: 290px;
+    overflow: hidden;
+  }
+}

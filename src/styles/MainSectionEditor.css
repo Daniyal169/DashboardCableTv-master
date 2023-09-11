@@ -1,0 +1,19 @@
+.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-md-9.css-b1im03-MuiGrid-root {
+  margin-top: 50px;
+}
+label.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  margin-left: 30px;
+}
+.uploadimg {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+}
+.updatebtn {
+  display: flex !important;
+  margin-top: 30px;
+  justify-content: center !important;
+}
+h6.MuiTypography-root.MuiTypography-h6.css-2ulfj5-MuiTypography-root {
+  text-align: center;
+}

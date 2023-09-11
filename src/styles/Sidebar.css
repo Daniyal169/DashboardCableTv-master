@@ -1,0 +1,92 @@
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation0.MuiDrawer-paper.MuiDrawer-paperAnchorLeft.MuiDrawer-paperAnchorDockedLeft.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+  width: 275px;
+  padding: 15px;
+}
+.sideBarLogo {
+  width: 238px;
+  height: 56px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #ececec;
+}
+.MuiList-root.MuiList-padding.css-h4y409-MuiList-root {
+  height: 499px;
+  height: auto;
+  margin-top: 50px;
+}
+.MuiButtonBase-root.MuiListItem-root.MuiListItem-gutters.MuiListItem-padding.MuiListItem-button.css-bshv44-MuiButtonBase-root-MuiListItem-root {
+  width: 236px;
+  height: 50px;
+  margin-bottom: 20px;
+}
+.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-i4bv87-MuiSvgIcon-root {
+  width: 22px;
+  height: 22px;
+  color: #3e3e3e;
+}
+.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.css-10hburv-MuiTypography-root {
+  color: #3e3e3e;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  text-transform: capitalize;
+}
+.MuiButtonBase-root.MuiListItem-root.MuiListItem-gutters.MuiListItem-padding.MuiListItem-button.css-bshv44-MuiButtonBase-root-MuiListItem-root:active {
+  border-radius: 5px;
+  background: #010c3a;
+}
+
+/* UserWidget */
+.UserWidget {
+  width: 225px;
+  height: 50px;
+  display: flex;
+  margin-top: 30px;
+}
+.leftside img {
+  width: 50px;
+  height: 50px;
+}
+.rightside {
+  margin-top: -20px;
+  margin-left: 20px;
+}
+.rightside h3 {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+  text-transform: uppercase;
+  padding-top: 3px;
+}
+.rightside h4 {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  margin-top: -10px;
+}
+/* Existing styles... */
+
+/* Add this style to target active navigation items */
+.MuiListItem-root.active {
+  background-color: #010c3a; /* Change this to the desired active color */
+}
+
+/* Change the color of navigation items when hovered or focused */
+.MuiButtonBase-root.MuiListItem-root.MuiListItem-gutters.MuiListItem-padding.MuiListItem-button.css-bshv44-MuiButtonBase-root-MuiListItem-root:hover,
+.MuiButtonBase-root.MuiListItem-root.MuiListItem-gutters.MuiListItem-padding.MuiListItem-button.css-bshv44-MuiButtonBase-root-MuiListItem-root:focus {
+  background-color: #f5f5f5; /* Change this to the desired hover/focus color */
+}
+
+/* Add this style to target active link text color */
+.MuiListItem-root.active .MuiTypography-root {
+  color: #ffffff; /* Change this to the desired active text color */
+}

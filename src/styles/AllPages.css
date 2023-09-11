@@ -1,0 +1,32 @@
+.accordion-body ul li {
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.accordion-body ul li:not(:last-child) {
+  padding-bottom: 20px;
+}
+button.btn.btn-secondary.btn-sm.ms-2 {
+  background-color: #cfe2ff;
+  color: #052c65;
+}
+h4.MuiTypography-root.MuiTypography-h4.MuiTypography-alignCenter.MuiTypography-gutterBottom.css-1trk376-MuiTypography-root {
+  width: 500px;
+}
+.accordion-item {
+  margin-bottom: 50px;
+}
+.MuiContainer-root.MuiContainer-maxWidthXs.css-nzinn5-MuiContainer-root {
+  margin-top: 50px;
+}
+.col-8 {
+  width: 100%;
+  margin-right: 20px;
+}
+div#accordionExample {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
